@@ -1,6 +1,6 @@
 ## Guia de estudo Certificacao Java EE 7 (1Z0-900)
 
-#### Tudo que descobrir estudando irei organizar nesse README, caso necessário os exemplos em código vao ficar nesse repositório com referências nesse README, provavelmente as explicações colocarei no README da classe.
+#### Tudo o que eu descobrir durante os estudos vai ser organizado nesse README; Os exemplos de codigo relevantes e explicações sobre notações e bibliotecas no README correspondente a classe.
 
 - [Java EE 7 Application Developer Exam Number: 1Z0-900](https://education.oracle.com/java-ee-7-application-developer/pexam_1Z0-900)
 
@@ -20,3 +20,31 @@
   - Desenvolver aplicativos Web usando JSFs
   - Java seguro Aplicativos EE 7
   - Use CDI Beans, API de concorrência e API de lote
+  
+  ## TEMAS:
+  
+   - Web
+        - Servles
+        - JSPs
+        - JSF
+   - Segurança
+        - Autenticação/Autorização
+        - Criptografia 
+        - Segurança de rede
+   - Gerenciamento de transações
+        - JTA
+        - Transações em containers
+   - Aplicações escaláveis
+        - EJBs
+        - Recursos
+   - Integração
+        - Banco de Dados
+        - Mensageiros
+        - WEB services
+   - Padrões
+        - Frameworks (Spring)
+   - Microservices 
+        - implementação
+   - Containers
+        - Docker
+        - Kubernetes
