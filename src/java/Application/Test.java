@@ -1,13 +1,25 @@
 package Application;
 
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+
 /**
  *
  * @author Guilherme
  */
-public class Test {
+
+@WebServlet("/hello")
+public class Test extends HttpServlet{
     
-    public static void main(String[] args) {
-        System.out.println("ola mundo");
+    @Override
+    public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException{
+        PrintWriter writer = resp.getWriter();
+        writer.print("Hellooo Worlddd");
     }
     
 }
