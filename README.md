@@ -4,7 +4,7 @@
 
 ## O que você vai precisar ?
 
-* Java 11
+* Java 1.8
 * Maven 3.8.1
 
 ## Links uteis para referencias 
@@ -15,7 +15,7 @@
 
     https://education.oracle.com/java*programming*learning*subscription/ls_40805
     
-  * Entender a arquitetura Java EE
+  
   * Gerenciar persistência usando entidades JPA e validação de bean
   * Implementar lógica de negócios usando EJBs
   * Usar API de serviço de mensagens Java
@@ -27,7 +27,14 @@
   * Java seguro Aplicativos EE 7
   * Use CDI Beans, API de concorrência e API de lote
   
-  ## TEMAS:
+  ## Topicos da Prova:
+  
+  * Entender a arquitetura Java EE
+     * Padrões
+        * Frameworks (Spring)
+     * Containers
+        * Docker
+        * Kubernetes
   
    * Web
         * Servles
@@ -47,10 +54,7 @@
         * Banco de Dados
         * Mensageiros
         * WEB services
-   * Padrões
-        * Frameworks (Spring)
+
    * Microservices 
         * implementação
-   * Containers
-        * Docker
-        * Kubernetes
+
