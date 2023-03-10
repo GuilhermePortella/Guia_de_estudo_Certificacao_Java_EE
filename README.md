@@ -9,12 +9,16 @@
 
 ## Links uteis para referencias 
 
-* [Java EE 7 Application Developer Exam Number: 1Z0*900](https://education.oracle.com/java*ee*7*application*developer/pexam_1Z0*900)
-* [Treinamentos e Certificados Gratuitos](https://education.oracle.com/learning*explorer)
-* [Java EE and Web Services](https://education.oracle.com/software/java/pFamily_48)
 
-    https://education.oracle.com/java*programming*learning*subscription/ls_40805
-    
+- [Java EE 7 Application Developer Exam Number: 1Z0*900](https://education.oracle.com/java*ee*7*application*developer/pexam_1Z0*900)
+- [Treinamentos e Certificados Gratuitos](https://education.oracle.com/learning*explorer)
+- [Java EE and Web Services](https://education.oracle.com/software/java/pFamily_48)
+- [The Java EE 5 Tutorial](https://docs.oracle.com/javaee/5/tutorial/doc/bnbfl.html)
+- [Java Learning Subscription](https://education.oracle.com/java*programming*learning*subscription/ls_40805)  
+- [Java EE Tutorial - git](https://javaee.github.io/tutorial/)
+- [javacodegeeks](https://examples.javacodegeeks.com/what-is-java-ee/)
+- [Certificação Java](https://blog.geekhunter.com.br/certificacao-java/)
+  
   
   * Gerenciar persistência usando entidades JPA e validação de bean
   * Implementar lógica de negócios usando EJBs
