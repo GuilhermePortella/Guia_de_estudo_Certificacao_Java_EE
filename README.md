@@ -17,8 +17,7 @@
 - [Java Learning Subscription](https://education.oracle.com/java*programming*learning*subscription/ls_40805)  
 - [Java EE Tutorial - git](https://javaee.github.io/tutorial/)
 - [javacodegeeks](https://examples.javacodegeeks.com/what-is-java-ee/)
-- [Certificação Java: só as mais pedidas pelo mercado em 2021](Certificação Java: só as mais pedidas pelo mercado em 2021)
-  
+- [Certificação Java](https://blog.geekhunter.com.br/certificacao-java/)
   
   
   * Gerenciar persistência usando entidades JPA e validação de bean
