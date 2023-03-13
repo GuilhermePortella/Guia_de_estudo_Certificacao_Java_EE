@@ -1,6 +1,6 @@
 ## Guia de estudo Certificacao Java EE 7 (1Z0*900)
 
-#### Tudo o que eu descobrir durante os estudos vai ser organizado nesse README; Os exemplos de codigo relevantes e explicações sobre notações e bibliotecas no README correspondente a classe.
+### Tudo o que eu descobrir durante os estudos vai ser organizado nesse README; Os exemplos de codigo relevantes e explicações sobre notações e bibliotecas no README correspondente a classe.
 
 ## O que você vai precisar ?
 
@@ -8,7 +8,6 @@
 * Maven 3.8.1
 
 ## Links uteis para referencias 
-
 
 - [Java EE 7 Application Developer Exam Number: 1Z0*900](https://education.oracle.com/java*ee*7*application*developer/pexam_1Z0*900)
 - [Treinamentos e Certificados Gratuitos](https://education.oracle.com/learning*explorer)
@@ -20,6 +19,8 @@
 - [Certificação Java](https://blog.geekhunter.com.br/certificacao-java/)
   
   
+
+---
   * Gerenciar persistência usando entidades JPA e validação de bean
   * Implementar lógica de negócios usando EJBs
   * Usar API de serviço de mensagens Java
