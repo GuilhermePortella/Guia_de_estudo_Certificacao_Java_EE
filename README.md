@@ -1,6 +1,6 @@
 ## Guia de estudo Certificacao Java EE 7 (1Z0*900)
 
-### Tudo o que eu descobrir durante os estudos vai ser organizado nesse README; Os exemplos de codigo relevantes e explicações sobre notações e bibliotecas no README correspondente a classe.
+#### Tudo o que eu descobrir durante os estudos vai ser organizado nesse README; Os exemplos de codigo relevantes e explicações sobre notações e bibliotecas no README correspondente a classe.
 
 ## O que você vai precisar ?
 
