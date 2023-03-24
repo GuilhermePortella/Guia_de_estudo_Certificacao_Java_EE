@@ -21,7 +21,7 @@
   
 
 ---
-  * Gerenciar persistência usando entidades JPA e validação de bean
+  * [Gerenciar persistência usando entidades JPA e validação de bean](https://www.ibm.com/docs/pt-br/was/8.5.5?topic=product-bean-validation-in-jpa)
   * Implementar lógica de negócios usando EJBs
   * Usar API de serviço de mensagens Java
   * Implementar serviços SOAP usando APIs JAX*WS e JAXB
