@@ -1,6 +1,6 @@
 ## Guia de estudo Certificacao Java EE 7 (1Z0*900)
 
-### Tudo o que eu descobrir durante os estudos vai ser organizado nesse README; Os exemplos de codigo relevantes e explicações sobre notações e bibliotecas no README correspondente a classe.
+#### Tudo o que eu descobrir durante os estudos vai ser organizado nesse README; Os exemplos de codigo relevantes e explicações sobre notações e bibliotecas no README correspondente a classe.
 
 ## O que você vai precisar ?
 
@@ -21,7 +21,7 @@
   
 
 ---
-  * Gerenciar persistência usando entidades JPA e validação de bean
+  * [Gerenciar persistência usando entidades JPA e validação de bean](https://www.ibm.com/docs/pt-br/was/8.5.5?topic=product-bean-validation-in-jpa)
   * Implementar lógica de negócios usando EJBs
   * Usar API de serviço de mensagens Java
   * Implementar serviços SOAP usando APIs JAX*WS e JAXB
