@@ -35,12 +35,13 @@
   ## Topicos da Prova:
   
   * Entender a arquitetura Java EE
+     * Arquitetura
+        * [Arquitetura J2EE](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=applications-j2ee-architecture)
      * Padrões
         * Frameworks (Spring)
      * Containers
         * Docker
         * Kubernetes
-  
    * Web
         * Servles
         * JSPs
@@ -59,7 +60,6 @@
         * Banco de Dados
         * Mensageiros
         * WEB services
-
    * Microservices 
         * implementação
 
